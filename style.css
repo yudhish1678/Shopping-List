@@ -1,0 +1,65 @@
+html { 
+  background: url(https://img5.goodfon.com/wallpaper/nbig/c/fb/cat-yellow-eyes-paw-funny-cute-simple-background-digital-art.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1,li,p
+{
+font-family: 'Kelly Slab', cursive;
+}
+
+h1
+{
+	color: white;
+	font-size: 3em;
+	text-align: center;
+	text-shadow: 2px 2px grey;
+}
+
+p
+{
+	color: #CACACA;
+	text-align: center;
+}
+
+li
+{
+	text-align: center;
+	font-size: 22px;
+	list-style-type: none;
+}
+button{
+cursor: pointer;
+}
+
+.container
+{
+  margin: auto;
+  width: 50%;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+
+
+ul li {
+	cursor: pointer;
+  background: #cce5ff;
+  /*margin: 5px;
+*/}
+
+.done {
+  text-decoration: line-through;
+}
+
+
+.container2
+{
+  margin: auto;
+  width: 50%;
+  border: none;
+  padding: 10px;
+}
